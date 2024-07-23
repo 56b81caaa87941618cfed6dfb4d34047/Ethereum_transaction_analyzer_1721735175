@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Alright, I'm adding a navbar on top with the links to \"home\", \"about\", and \"navigation\".",
+        "message_id": "guest23072024115437",
+        "timestamp": "23072024115440",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a navbar with the navlinks on the top home, about and navigations",
         "message_id": "guest23072024115437",

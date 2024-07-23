@@ -60,12 +60,28 @@ Vue.component("purple_header_component_1721735177", {
     
             </div>
         </div>
-    </header>`,
-        data() {
-            return {
-                expanded: false, 
-                tab: null,
-            };
-        },
-    });
+    </header>
+
+    <div class="flex">
+        <aside class="w-64 h-screen bg-gray-800 text-white p-4">
+            <nav>
+                <ul>
+                    <li class="mb-2"><a href="#" class="block py-2 px-4 hover:bg-gray-700 rounded">Home</a></li>
+                    <li class="mb-2"><a href="#" class="block py-2 px-4 hover:bg-gray-700 rounded">About</a></li>
+                    <li class="mb-2"><a href="#" class="block py-2 px-4 hover:bg-gray-700 rounded">Contact</a></li>
+                </ul>
+            </nav>
+        </aside>
+        <main class="flex-1">
+            <!-- Main content goes here -->
+        </main>
+    </div>
+    `,
+    data() {
+        return {
+            expanded: false, 
+            tab: null,
+        };
+    },
+});
                     

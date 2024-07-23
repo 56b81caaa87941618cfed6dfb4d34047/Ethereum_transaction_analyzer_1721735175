@@ -5,13 +5,13 @@ It is centered on the page and includes a gradient-based title, a subtitle, a pa
 Vue.component("purple_background_cta_component_1721735177", {
     template: `
     <section id="cta-section-container">
-        <nav class="bg-purple-900 p-4">
+        <nav class="bg-blue-900 p-4">
             <div class="max-w-6xl mx-auto flex justify-between items-center">
                 <div class="text-white font-bold text-xl">Logo</div>
-                <div class="space-x-4">
-                    <a href="#" class="text-white hover:text-purple-300">Home</a>
-                    <a href="#" class="text-white hover:text-purple-300">About</a>
-                    <a href="#" class="text-white hover:text-purple-300">Navigation</a>
+                <div class="space-x-6">
+                    <a href="#" class="text-white hover:text-purple-300 transition duration-300">Home</a>
+                    <a href="#" class="text-white hover:text-purple-300 transition duration-300">About</a>
+                    <a href="#" class="text-white hover:text-purple-300 transition duration-300">Navigation</a>
                 </div>
             </div>
         </nav>

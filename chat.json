@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Would you prefer the navbar to be fixed at the top of the page or should it disappear/reappear based on scroll direction?\", \"option1\": \"Fixed at the top of the page\", \"option2\": \"Disappear/Reappear on scroll\"}, {\"question 2\": \"For the 'navigations' link, are you envisioning it to be a dropdown menu with additional links, or a direct link to another page?\", \"option1\": \"Dropdown menu with additional links\", \"option2\": \"Direct link to another page\"}], \"input_token_count\": 270, \"output_token_count\": 123, \"time_taken\": \"0:00:03.784568\"}",
+        "message_id": "guest23072024115437",
+        "timestamp": "23072024115442",
+        "component_file_name": "purple_background_cta_component_1721735177",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Alright, I'm adding a navbar on top with the links to \"home\", \"about\", and \"navigation\".",
         "message_id": "guest23072024115437",

@@ -14,5 +14,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\n\nUser: add a button with the text hello world\nAI: Acknowledged, adding a button with the text \"hello world\".\nUser: add a sidebar with the navlinks home, about and contact\nAI: Alright, I will add a sidebar with navlinks home, about and contact.\nThis is the user's current request of changes to be made: add a sidebar with the navlinks home, about and contract"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\n\nUser: add a button with the text hello world\nAI: Acknowledged, adding a button with the text \"hello world\".\nUser: add a sidebar with the navlinks home, about and contact\nAI: Alright, I will add a sidebar with navlinks home, about and contact.\nThis is the user's current request of changes to be made: add a sidebar with the navlinks home, about and contract"
     }
 ]

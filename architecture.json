@@ -2,5 +2,9 @@
     {
         "level": 1,
         "task_description": "add a button with the text hello world"
+    },
+    {
+        "level": 1,
+        "task_description": "add a button with the text hello world"
     }
 ]

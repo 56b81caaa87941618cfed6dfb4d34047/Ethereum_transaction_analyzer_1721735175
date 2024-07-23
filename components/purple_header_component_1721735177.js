@@ -28,6 +28,12 @@ Vue.component("purple_header_component_1721735177", {
                     <li><a id="sign-in-link" class="font-medium text-sm whitespace-nowrap transition duration-150 ease-in-out text-slate-300 hover:text-white" href="signin.html">Sign in</a></li>
                     <li class="ml-6"><a id="sign-up-link" class="btn-sm transition duration-150 ease-in-out w-full group relative before:absolute before:inset-0 before:bg-slate-800/30 before:rounded-full before:pointer-events-none text-slate-300 hover:text-white [background:linear-gradient(theme(colors.slate.900),_theme(colors.slate.900))_padding-box,_conic-gradient(theme(colors.slate.400),_theme(colors.slate.700)_25%,_theme(colors.slate.700)_75%,_theme(colors.slate.400)_100%)_border-box]" href="signup.html"><span class="relative inline-flex items-center">Sign up <span id="sign-up-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 text-purple-500">-&gt;</span></span></a></li>
                 </ul>
+
+                <div class="flex-1">
+                    <button class="btn-sm transition duration-150 ease-in-out text-slate-300 hover:text-white bg-slate-800 rounded-full px-4 py-2">Hello World</button>
+                </div>
+
+                <div id="mobile-menu" class="md:hidden flex items-center ml-4" x-data="{ expanded: false }">
     
                 <div id="mobile-menu" class="md:hidden flex items-center ml-4" x-data="{ expanded: false }">
     

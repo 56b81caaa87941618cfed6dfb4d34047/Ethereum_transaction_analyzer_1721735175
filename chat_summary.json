@@ -24,5 +24,11 @@
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the 'Hello World' button to be positioned within the app?\", \"option1\": \"In the main menu\", \"option2\": \"At the bottom of every screen\"}, {\"question 2\": \"What action should occur when the 'Hello World' button is clicked?\", \"option1\": \"Display a greeting message\", \"option2\": \"Navigate to another page\"}], \"input_token_count\": 262, \"output_token_count\": 93, \"time_taken\": \"0:00:07.581779\"}",
         "timestamp": "23072024114702",
         "message_id": "guest23072024114646"
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Interactive transaction filter options (e.g., by date, amount, sender/receiver)\", \"checked\": true}, {\"feature\": \"Real-time transaction notification alerts\", \"checked\": true}, {\"feature\": \"Customizable dashboard for analytics overview\", \"checked\": false}, {\"feature\": \"Dark and light mode UI toggle button\", \"checked\": true}, {\"feature\": \"Detailed transaction history page with export to CSV option\", \"checked\": false}, {\"feature\": \"User profile customization settings\", \"checked\": false}], \"input_token_count\": 216, \"output_token_count\": 108, \"time_taken\": \"0:00:11.628467\"}",
+        "timestamp": "23072024114706",
+        "message_id": "guest23072024114646"
     }
 ]

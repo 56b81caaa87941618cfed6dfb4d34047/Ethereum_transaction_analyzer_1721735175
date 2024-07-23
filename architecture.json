@@ -26,5 +26,9 @@
     {
         "level": 1,
         "task_description": "add a navbar with the navlinks on the top home, about and navigations"
+    },
+    {
+        "level": 1,
+        "task_description": "add a navbar with the navlinks on the top home, about and navigations"
     }
 ]

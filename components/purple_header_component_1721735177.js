@@ -63,16 +63,16 @@ Vue.component("purple_header_component_1721735177", {
     </header>
 
     <div class="flex">
-        <aside class="w-64 h-screen bg-gray-800 text-white p-4">
+        <aside class="w-64 h-screen bg-navy-900 text-white p-4">
             <nav>
                 <ul>
-                    <li class="mb-2"><a href="#" class="block py-2 px-4 hover:bg-gray-700 rounded">Home</a></li>
-                    <li class="mb-2"><a href="#" class="block py-2 px-4 hover:bg-gray-700 rounded">About</a></li>
-                    <li class="mb-2"><a href="#" class="block py-2 px-4 hover:bg-gray-700 rounded">Contact</a></li>
+                    <li class="mb-2"><a href="#" class="block py-2 px-4 hover:bg-purple-700 rounded transition duration-300 ease-in-out">Home</a></li>
+                    <li class="mb-2"><a href="#" class="block py-2 px-4 hover:bg-purple-700 rounded transition duration-300 ease-in-out">About</a></li>
+                    <li class="mb-2"><a href="#" class="block py-2 px-4 hover:bg-purple-700 rounded transition duration-300 ease-in-out">Contact</a></li>
                 </ul>
             </nav>
         </aside>
-        <main class="flex-1">
+        <main class="flex-1 bg-black">
             <!-- Main content goes here -->
         </main>
     </div>
